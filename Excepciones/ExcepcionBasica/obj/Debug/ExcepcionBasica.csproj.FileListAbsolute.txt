@@ -1,0 +1,6 @@
+D:\Balabasquer\Excepciones\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe.config
+D:\Balabasquer\Excepciones\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe
+D:\Balabasquer\Excepciones\ExcepcionBasica\bin\Debug\ExcepcionBasica.pdb
+D:\Balabasquer\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.exe
+D:\Balabasquer\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.pdb
+D:\Balabasquer\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.csprojResolveAssemblyReference.cache
