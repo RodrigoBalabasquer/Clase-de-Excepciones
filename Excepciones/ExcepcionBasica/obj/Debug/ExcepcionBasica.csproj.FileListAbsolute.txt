@@ -4,3 +4,9 @@ D:\Balabasquer\Excepciones\ExcepcionBasica\bin\Debug\ExcepcionBasica.pdb
 D:\Balabasquer\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.exe
 D:\Balabasquer\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.pdb
 D:\Balabasquer\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe.config
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\ExcepcionBasica\bin\Debug\ExcepcionBasica.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\ExcepcionBasica\obj\Debug\ExcepcionBasica.csprojResolveAssemblyReference.cache

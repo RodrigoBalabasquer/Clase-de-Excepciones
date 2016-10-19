@@ -1,0 +1,11 @@
+D:\Balabasquer\Excepciones\Burbujeo-De-Excepciones\bin\Debug\Burbujeo-De-Excepciones.exe.config
+D:\Balabasquer\Excepciones\Burbujeo-De-Excepciones\bin\Debug\Burbujeo-De-Excepciones.exe
+D:\Balabasquer\Excepciones\Burbujeo-De-Excepciones\bin\Debug\Burbujeo-De-Excepciones.pdb
+D:\Balabasquer\Excepciones\Burbujeo-De-Excepciones\obj\Debug\Burbujeo-De-Excepciones.exe
+D:\Balabasquer\Excepciones\Burbujeo-De-Excepciones\obj\Debug\Burbujeo-De-Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\Burbujeo-De-Excepciones\bin\Debug\Burbujeo-De-Excepciones.exe.config
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\Burbujeo-De-Excepciones\obj\Debug\Burbujeo-De-Excepciones.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\Burbujeo-De-Excepciones\obj\Debug\Burbujeo-De-Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\Burbujeo-De-Excepciones\bin\Debug\Burbujeo-De-Excepciones.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\Burbujeo-De-Excepciones\bin\Debug\Burbujeo-De-Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Excepciones\Burbujeo-De-Excepciones\obj\Debug\Burbujeo-De-Excepciones.csprojResolveAssemblyReference.cache

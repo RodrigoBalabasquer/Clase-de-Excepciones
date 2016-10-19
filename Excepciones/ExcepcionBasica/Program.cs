@@ -76,6 +76,7 @@ namespace ExcepcionBasica
             catch (AutoExcepcion Ex)
             {
                 Console.WriteLine(Ex.Message);
+                Console.WriteLine(Ex.InnerException.Message);
             }
             catch (MiExcepcion Ex)
             {
